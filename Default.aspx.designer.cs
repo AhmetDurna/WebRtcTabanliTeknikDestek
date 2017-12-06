@@ -11,7 +11,7 @@ namespace TeknikOfis {
     
     
     public partial class Default {
-        //oguzhan oguz
+     
         /// <summary>
         /// Link1 control.
         /// </summary>
