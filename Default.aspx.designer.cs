@@ -11,7 +11,7 @@ namespace TeknikOfis {
     
     
     public partial class Default {
-        
+        //ahmet durna
         /// <summary>
         /// Link1 control.
         /// </summary>
